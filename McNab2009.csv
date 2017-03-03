@@ -1,0 +1,533 @@
+﻿Species,Mass(g),BMR (kJ/h),Timeb,Foodc,Climated,Habitate,Torpor?f,Migrationg,Islands?h,Mountains?i,Flightless?j,Reference
+Aulacorhynchus sulcatus,131.7,2.44,N,F/I,TR,F,N,N,N,N,N,McNab 2001
+Chenkcaerulescens,2930,27.9,D?,G,P,T,N,Y,N,N,N,Boisemena et al. 1992
+Accipiter cooperi,452,7.66,N,V,T,F,N,Y/N,N,N,N,Wasser 1986
+Accipiter nisus,135,3.42,N,V,T,F,N,Y,N,N,N,Kendeigh et al. 1977
+Accipiter striatus,83,2.52,N,V,T,F,N,Y,N,N,N,Wasser 1986
+Aegolius acadicus,118.1,2.25,D,V,T,F,N,Y,N,N,N,Ligon 1969
+Aegolius funereus,130,4.07,D,V,T,F,N,N,N,Y,N,Hohtola et al. 1994
+Agapornis fischeri,56.7,1.9,N,S,T,F/G,N,N,N,N,N,Gavrilov & Dol’nik 1985
+Agapornis roseicollis,48.1,1.67,N,S,T,F,N,N,N,N,N,Kendeigh et al. 1977
+Aix sponsa,448,8.09,N,AV,T,W,N,Y,N,N,N,Kendeigh et al. 1977
+Alcedo atthis,34.3,1.36,N,V,T/TR,W,Y,N,N,N,N,Kendeigh et al. 1977
+Alectoris chukar,475,7.06,D?,S,T,G,N,N,N,N,N,Marder & Bernstein 1983
+Alectoris graeca,633,9.12,N,S,T,G,N,N,N,Y,N,Kendeigh et al. 1977
+Anas acuta,721,15.71,N,AV,T,W,N,Y,N,N,N,Prinzinger & Hänssler 1980
+Anas aucklandica,373.1,6.75,D/N,AI,T,W,N,N,S,N,Y,McNab 2003
+Anas castanea,483.3,6.86,D,O,T,W,N,N,N,N,N,McNab 2003
+Anas chlorotis,528.8,8.35,D/N,AI,T,W,N,N,L,N,N,McNab 2003
+Anas clypeata,554,13.96,N,AI,T,W,N,Y,N,N,N,Prinzinger & Hänssler 1980
+Anas gracilis,393.7,11.98,D/N,AV,T,W,N,N,N,N,N,McNab 2003
+Anas nesiotis,371.1,5.94,D/N,AI,T,W,N,N,S,N,Y,McNab 2003
+Anas penelope,723,10.15,N,AV,T,W,N,Y,N,N,N,Kendeigh et al. 1977
+Anas platyrhynchos,1020,14.64,N,O,T,W,N,Y,N,N,N,Kendeigh et al. 1977
+Anas querquedula,289,8.04,N,O,T,W,N,Y,N,N,N,Prinzinger & Hänssler1980
+Anas rhynchotis,508,9.47,D,AI,T,W,N,N,N,N,N,McNab 2003
+Anas strepera,791,22.33,N,AV,T,W,N,Y,N,N,N,Prinzinger & Hänssler 1980
+Anser anser,3250,39.01,N,G,T,W,N,Y,N,N,N,Kendeigh et al. 1977
+Anser canagicus,2609,32.25,N,G,P,T,N,Y,N,N,N,Gavrilov & Dolnik 1985
+Aquila rapax,2398,16.27,N,V,TR,G,N,N,N,N,N,Wasser 1986
+Arenaria interpres,90,3.32,N,AI,P,T/B,N,Y,N,N,N,Kersten & Piersma 1987
+Asio otus,252,3.43,D/N,V,T,F/G,N,+/O,N,N,N,Wijnandts 1984
+Athene cunicularia,146.7,2.8,D,V/I,T,G,N,+/O,N,N,N,Coulombe 1970
+Aulacorhynchus prasinus,174.7,2.99,N,F/I,TR,F,N,N,N,N,N,McNab 2001
+Aythya affinus,561.5,10.33,N,O,T,L,N,Y,N,N,N,McNab 2003
+Aythya collaris,681.5,11.84,N,O,T,W,N,Y,N,N,N,McNab 2003
+Aythya ferina,816,20.94,N,AV,T,W,N,+/O,N,N,N,Prinzinger & Hänssler 1980
+Aythya fuligula,574,9.73,N,AV,T,L,N,N,N,N,N,Prinzinger & Hänssler 1980
+Aythya novaeseelandiae,488.4,8.4,D/N,AI,T,L,N,N,L,N,N,McNab 2003
+Aythya nyroca,440,11.78,N,AV,T,W,N,Y,N,N,N,Prinzinger & Hänssler 1980
+Baillonius bailloni,133,2.53,N,F,TR,F,N,N,N,N,N,McNab 2001
+Barnardius zonarius,131.8,2.85,N,F/S,T,F,N,N,N,N,N,Williams et al. 1991
+Branta bernicula,1253,21.82,N,G,T,W,N,Y,N,N,N,Daan et al. 1990
+Brotogeris jugularis,63.5,2.07,N,F/S,TR,G,N,N,N,N,N,Wiersma et al. 2007
+Bubo virginianus,1000,15.62,D,V,T/TR,F,N,N,N,N,N,Ganey et al. 1993
+Buteo buteo,1012,13.52,N,V,T,G,N,Y,N,N,N,Prinzinger & Hänssler 1980
+Buteo jamaicensis,1475,11.43,N,V,T,G,N,Y,N,N,N,Wasser 1986
+Buteo lineatus,658,7.6,N,V,T,F,N,N,N,N,N,Wasser 1986
+Cacatua galerita,776.1,12.3,N,S,T/TR,F,N,N,N,N,N,Williams et al. 1991
+Cacatua roseicapilla,268.7,4.5,N,S,T/TR,F/G,N,N,N,N,N,Williams et al. 1991
+Cacatua tenuirostris,549.9,11.4,N,S,T,F/G,N,N,N,N,N,Williams et al. 1991
+Calidris canutus,130,3.17,N,AI,P,T/B,N,Y,N,N,N,Piersma et al. 1995
+Caloenas nicobarica,613,6.53,N,N/F,TR,F,N,N,S,N,N,McNab 2000
+Calyptorhynchus banksii,535.3,10.68,N,N,TR,F,N,N,N,N,N,Williams et al. 1991
+Caprimulgus macrurus,68.6,1.12,D,FI,TR,F,NA,N,N,N,N,McNab & Bonaccorso 1995
+Centropus senegalensis,175,5.43,N,I,TR,F/G,N,N,N,N,N,Prinzinger & Hänssler 1980
+Chalcophaps indica,124,2.85,N,S,TR,F,N,N,N,N,N,Schleucher & Withers 2002
+Charadrius dubius,36,1.5,N,AI,T,B,N,Y,N,N,N,Kendeigh et al. 1977
+Chloroceryle aenea,11.8,0.63,N,V/I,TR,F,N,N,N,N,N,Wiersma et al. 2007
+Chordeilus minor,72,1.59,D,FI,T,G,Y,Y,N,N,N,Lasiewski & Dawson 1964
+Columba leucocephala,251.9,4.84,N,F,TR,F,N,N,I,N,N,McNab 2000
+Columba leucomela,456,8.77,N,F/S,T/TR,F,N,N,N,N,N,Schleucher & Withers 2002
+Columba livia,368,5.97,N,S,T,B,N,N,N,N,N,Gavrilov & Dol’nik 1985
+Columba vitiensis,467.9,5.2,N,F,TR,F,N,N,N,N,N,McNab 2000
+Columbina inca,41.5,0.94,D/N,S,T,F,N,N,N,N,N,MacMillen & Trost 1967
+Columbina talpacoti,45.7,1.49,N,S,TR,B,N,N,N,N,N,Wiersma et al. 2007
+Coturnix chinensis,44.9,1.32,N,S,TR,G,N,N,N,N,N,Roberts & Baudinette 1986
+Coturnix coturnix,97,3.21,N,S,T,G,N,Y,N,N,N,Kendeigh et al. 1977
+Coturnix japonica,115,3.52,N,S,T,G,N,Y,N,N,N,Prinzinger & Hänssler 1980
+Coturnix pectoralis,95.8,2.29,N,S,T,G,N,N,N,N,N,Roberts & Baudinette 1986
+Cuculus canorus,111.6,3.02,N,I,T,F,N,Y,N,N,N,Kendeigh et al. 1977
+Cyanorhamphus auriceps,52.9,1.77,D/N,S/L,T,F,N,N,L,N,N,McNab & Salisbury 1995
+Cyanorhamphus novaezelandiae,56.1,2.24,D/N,F/L,T,F,N,N,L,N,N,McNab & Salisbury 1995
+Cyanorhamphus unicolor,129.4,3.89,D/N,L,T,G,N,N,S,N,N,McNab & Salisbury 1995
+Cygnus olor,8538,112.12,D,AV,T,W,N,Y,N,N,N,Bech 1980
+Dacelo novaeguineae,336,4.02,N,V/I,T/TR,G,N,N,N,N,N,Buttemer et al. 2003
+Daptrius ater,362,4.32,N,O,TR,F,N,N,N,N,N,Wasser 1986
+Dendrogapus obscurus,1131,17.85,N,L,T,F,N,N,N,Y,N,Pekins et al. 1992
+Drepanoptila holosericea,198,2.97,N,F,TR,F,Y,N,I,N,N,Schluecher 2002
+Ducula pacifica,333.4,2.86,N,F,TR,F,N,N,S,N,N,McNab 2000
+Ducula pinon,583.8,6.41,N,F,TR,F,N,N,N,N,N,McNab 2000
+Ducula pistrinaria,394.2,3.86,N,F,TR,F,N,N,S,N,N,McNab 2000
+Ducula radiata,333.6,5.06,N,F,TR,F,N,N,N,N,N,McNab 2000
+Ducula rubricera,418.8,4.91,N,F,TR,F,N,N,N,N,N,McNab 2000
+Ducula rufigaster,376.7,4.58,N,F,TR,F,N,N,N,N,N,McNab 2000
+Ducula spilorrhoa,453.6,4.94,N,F,TR,F,N,N,S,N,N,McNab 2000
+Ducula zoeae,456.2,6.13,N,F,TR,F,N,N,N,N,N,McNab 2000
+Eudynamys scolopacea,188,5.92,N,F,T/TR,F,N,+/O,N,N,N,Prinzinger & Hänssler 1980
+Eurostopodus argus,88,1.47,D,FI,T/TR,F/G,NA,N,N,N,N,Dawson & Fisher 1969
+Eurostopodus mystacalis,162,1.73,D,FI,T/TR,F,NA,+/O,N,N,N,McNab & Bonaccorso 1995
+Falco mexicanus,430,6.99,N,V,T,D,N,N,N,N,N,Wasser 1986
+Falco sparverius,116,2.38,N,I,T,G,N,+/O,N,N,N,Wasser 1986
+Falco subbuteo,208,4.67,N,I,T,F,N,Y,N,N,N,Kendeigh et al. 1977
+Falco tinnunculus,131,2.79,N,V,T,G,N,+/O,N,N,N,Gavrilov & Dol’nik 1985
+Gallicolumba beccarii,68.8,1.92,N,F/S,TR,F,N,N,N,Y,N,"McNab, pers. obs."
+Geococcyx californicus,294.6,4.55,N,I/L,T,D,N,N,N,N,N,Ohmart & Lasiewski 1971
+Geopelia cuneata,39,0.96,N,S,T/TR,G,Y,N,N,N,N,Schleucher & Withers 2002
+Geopelia placida,52,1.28,N,S,T/TR,F,N,N,N,N,N,Schleucher & Withers 2002
+Geophaps plumifera,81,1.52,N,S,TR,G,N,N,N,N,N,Withers & Williams 1990
+Geophaps smithii,198,3.14,N,S,TR,F,N,N,N,N,N,Schleucher & Withers 2002
+Geotrygon montana,107.3,2.43,N,F/S,TR,F,N,N,N,N,N,Wiersma et al. 2007
+Glaucidium gnoma,52,1.67,D,I,T/TR,F,N,N,N,Y,N,Ligon 1969
+Goura cristata,2313.4,15.36,N,F,TR,F,N,N,N,N,N,McNab 2000
+Gymnophaps albertisii,241.6,3.4,N,F,TR,F,N,N,N,Y,N,McNab 2000
+Hemiphaga novaeseelandiae,435.6,6.78,N,F/L,T,F,N,N,L,N,N,McNab 2000
+Hymenolaimus malacorhynchos,717.1,11.31,D/N,AI,T,W,N,N,L,Y,N,McNab 2003
+Ictinia mississippiensis,232,3.29,N,FI,T,F,N,Y,N,N,N,Wasser 1986
+Jacana jacana,107,3.62,N,AI,TR,W,N,N,N,N,N,Wiersma et al. 2007
+Lagopus lagopus,658,10.1,N,L,P,T,N,N,N,Y,N,Mortensen & Blix 1986
+Lagopus leucurus,326,8.5,N,L,T,A,N,N,N,Y,N,Johnson 1968
+Lagopus mutus,465,9.86,N,L,P,T,N,N,N,Y,N,Mortensen & Blix 1986
+Leptotila verreauxi,131,3.19,N,S,T,F,N,N,N,N,N,Vleck & Vleck 1979
+Leucosarcia melanoleuca,468,6.02,N,F/S,T,F,N,N,N,N,N,McNab 2000
+Limosa lapponica,240,5.47,N,AI,P,T,N,Y,N,N,N,Daan et al. 1990
+Lophodytes cucullatus,413.3,7.03,D/N,V/AI,T,L,N,Y,N,N,N,McNab 2003
+Loriculus galgulus,27,1.86,N,F,TR,F,N,N,N,N,N,Prinzinger & Hänssler 1980
+Melopsittacus undulatus,33.7,1.33,N,S,T/TR,F,N,N,N,N,N,Weathers & Schoenbaechler 1976
+Micrathene whitneyi,45,0.91,D,I,T,D,N,Y,N,N,N,Ligon 1968
+Myiopsitta monachus,80.4,1.89,N,S,T,F/G,N,N,N,N,N,Weathers & Caccamise 1978
+Neophema petrophila,48.4,2.28,N,S,T,F/G,N,N,N,N,N,Williams et al. 1991
+Neophema pulchella,40,2.09,N,F/S,T,F/G,N,N,N,N,N,Prinzinger & Hänssler 1980
+Neopsephotus bourkii,40,1.94,N,S,T,F/G,N,N,N,N,N,Prinzinger & Hänssler 1980
+Nestor meridionalis,369.3,7.71,D,F/I,T,F,N,N,L,N,N,McNab & Salisbury 1995
+Nestor notabilis,836.9,15.98,D/N,F/L,T,A,N,N,L,Y,N,McNab & Salisbury 1995
+Netta rufina,1237,25.56,N,AV,T,L,N,Y,N,N,N,Prinzinger & Hänssler 1980
+Ninox theomacha,151.4,3.77,D,I,TR,F,N,N,N,N,N,"McNab, pers. obs."
+Nyctea scandiaca,2026,11.84,D,V,P,T,N,Y,N,N,N,Gessaman 1972
+Nymphicus hollandicus,85.6,2.48,N,S,T/TR,F,N,N,N,N,N,Kendeigh et al. 1997
+Oceanodroma furcata,44.6,1.59,N,AI,T,P,N,Y,N,N,N,Vleck & Kenagy 1980
+Ocyphaps lophotes,187,3.91,N,S,T/TR,G,N,N,N,N,N,Schleucher & Withers 2002
+Oena capensis,36,0.88,N,S,T/TR,G,N,+/O,N,N,N,Schleucher 2001
+Otus asio,165.5,2.16,D,V/I,T,F,N,N,N,N,N,Ligon 1969
+Otus scops,78.9,1.7,D,I,T,F,N,Y,N,N,N,Gavrilov & Dol’nik 1985
+Otus trichopsis,99.8,1.5,D,I,TR,F,N,N,N,N,N,Ligon 1969
+Pandion haliaetus,1495,19.88,N,V,T,L/W,N,N,N,N,N,Wasser 1986
+Parabuteo unicinctus,572,5.07,N,V,TR,D,N,N,N,N,N,Wasser 1986
+Perdix perdix,501,7.75,N,S/L,T,G,N,N,N,N,N,Kendeigh et al. 1977
+Pernis apivorus,652,8.41,N,I,T,F,N,Y,N,N,N,Kendeigh et al. 1977
+Phalaenoptilus nuttalli,40,0.64,D,FI,T,D,HIB,+/O,N,N,N,Bartholomew et al. 1962
+Phaps chalcoptera,304,5.5,N,S,T,F,N,N,N,N,N,Schleucher & Withers 2002
+Phaps elegans,190,4.46,N,S,T,F,N,N,N,N,N,Schleucher & Withers 2002
+Phaps histrionica,257,4.67,N,S,T/TR,G,N,N,N,N,N,Schleucher & Withers 2002
+Pluvialis apricaria,151,4.47,N,AI,P,T,N,Y,N,N,N,Daan et al. 1990
+Pluvialis squatorola,226,6.41,N,AI,P,T,N,Y,N,N,N,Kersten & Piersma 1987
+Podargus ocellatus,145,2.04,D,FI,TR,F,NA,N,N,N,N,Lasiewski et al. 1970
+Podargus papuensis,314.6,3.85,D,FI,TR,F,NA,N,N,N,N,McNab & Bonaccorso 1995
+Podargus strigoides,380.3,3.72,D,FI,T/TR,F,Y,N,N,N,N,Bech & Nichol 1999
+Pteroglossus aracari,200.7,3.2,N,F/I,TR,F,N,N,N,N,N,McNab 2001
+Ptilinopus melanospila,98,1.76,N,F,TR,F,N,N,N,N,N,Schleucher & Withers 2002
+Ptilinopus perlatus,196,3.82,N,F,TR,F,N,N,N,N,N,McNab 2000
+Ptilinopus superbus,120.4,2.72,N,F,TR,F,N,N,N,N,N,Schleucher 2002
+Ramphastos dicolorus,328.9,4.55,N,F/V,TR,F,N,N,N,N,N,McNab 2001
+Ramphastos toco,582,8.72,N,F/V,TR,F,N,N,N,N,N,McNab 2001
+Ramphastos tucanus,420.3,6.15,N,F/V,TR,F,N,N,N,N,N,McNab 2001
+Scolopax minor,156.7,3.85,N,AI,T,F,N,Y,N,N,N,Vander Haegen et al. 1994
+Scolopax rusticola,430,7.78,N,AI,T,F,N,Y,N,N,N,Kendeigh et al. 1977
+Somateria mollissima,1660,21.99,D,AI,P,M,N,Y,N,N,N,Jenssen et al. 1989
+Streptopelia decaocto,170,3.42,N,S,T,B,N,N,N,N,N,Daan et al. 1990
+Streptopelia senegalensis,108,3.05,N,S,TR,F,N,N,N,N,N,Kendeigh et al. 1977
+Streptopelia turtur,154,4.1,N,S,T,F,N,Y,N,N,N,Kendeigh et al. 1977
+Strix occidentalis,571,9.63,D,V,T,F,N,N,N,N,N,Ganey et al. 1993
+Tadorna variegata,1193.6,12.04,N,G,T,G,N,N,L,N,N,McNab 2003
+Tetrao urogallus,3900,42.92,N,L,T,F,N,N,N,N,N,Kendeigh et al. 1977
+Thinocorus rumicivorus,55.5,1.12,N,AI,T/TR,D,N,Y,N,N,N,Ehlers & Morton 1982
+Trachyphonus darnaudii,36.6,0.79,N,O,TR,G,N,N,N,N,N,McNab 2001
+Trichoglossus haematodous,137.1,4.3,N,P,TR,F,N,N,N,N,N,Williams et al. 1991
+Tringa ochropus,90,3.32,N,AI,T,F,N,Y,N,N,N,Prinzinger & Hä
+Uroglaux dimorpha,245.3,5.27,D,V/I,TR,F,N,N,N,N,N,"McNab, pers. obs."
+Zenaida macroura,91.4,2.33,N,S,T,G,N,+/O,N,N,N,Hudson & Brush 1964
+Acrocephalus palustris,10.8,0.73,N,I,T,B,N,Y,N,N,N,Kendeigh et al. 1977
+Acrocephalus schoenobaenus,11.5,0.78,N,I,T,B,N,Y,N,N,N,Kendeigh et al. 1977
+Aegithalos caudatus,8.9,0.72,N,I,T,F,N,+/O,N,N,N,Gavrilov & Dol’nik 1985
+Aethopyga christinae,5.2,0.48,N,S,TR,F,N,N,N,N,N,Prinzinger et al. 1989
+Aethopyga siparaja,6.8,0.53,N,P/I,TR,F,N,+/O,N,N,N,Prinzinger et al. 1989
+Agelaius phoeniceus,43.1,1.74,N,I/S,T,W,N,+/O,N,N,N,Weathers 1981
+Alaemon alaudipes,37.7,1.54,N,I,T,D,N,N,N,N,N,Tieleman et al. 2002
+Alauda arvensis,31.7,2.6,N,I/S,T,G,N,Y,N,N,N,Tieleman et al. 2002
+Alca torda,589,12.96,N,V/I,T,M,N,Y,N,N,N,Bryant & Furness 1995
+Alle alle,152.5,7.4,D/N,AI,P,P,N,Y,N,N,N,Gabrielsen et al. 1991
+Amadina erythrocephala,21.7,0.76,N,S/I,T/TR,G,N,N,N,N,N,McKechnie & Lovegrove 2003
+Amadina fasciata,17.2,0.77,N,S/I,T/TR,O,N,N,N,N,N,Marschall & Prinzinger 1991
+Amaurornis ineptus,856.6,4.83,N,O,TR,F,N,N,N,N,Y,McNab & Ellis 2006
+Ammodramus savannarum,13.8,0.64,N,I/S,T,G,N,Y,N,N,N,Yarbrough 1971
+Amphispiza bilineata,11.6,0.71,N,I/S,T,D,N,+/O,N,N,N,Weathers 1981
+Andropodus curvirostris,23,1.06,N,F,TR,F,N,N,N,N,N,Seavy & McNab 2007
+Andropodus latirostris,26.6,1.3,N,F,TR,F,N,N,N,N,N,Seavy & McNab 2007
+Andropodus virens,24.2,1.19,N,F,TR,F,N,N,N,N,N,Seavy & McNab 2007
+Anhinga anhinga,1040,11.49,N,V,TR,L/W,N,N,N,N,N,Hennemann 1983
+Anthreptes orientalis,11.8,0.55,N,P/I,TR,O,N,N,N,N,N,Prinzinger et al. 1989
+Anthus campestris,21.8,1.38,N,I,T,O,N,Y,N,N,N,Kendeigh et al. 1977
+Anthus pratensis,18.9,1.08,N,I,T,O,N,+/O,N,N,N,Kendeigh et al. 1977
+Anthus trivalis,19.7,1.22,N,I,T,O,N,Y,N,N,N,Kendeigh et al. 1977
+Aptenodytes forsteri,"23,370",154.19,D,V,P,P,N,Y,N,N,Y,Pinshow et al. 1976
+Aptenodytes patagonicus,"11,080",78.67,?,V,P,P,N,N,N,N,Y,Gavrilov 1977
+Apteryx australis,3137,16.6,D,I,T,F,N,N,L,N,Y,McNab 1996
+Apteryx haastii,2529,19.02,D,I,T,F,N,N,L,N,Y,McNab 1996
+Apteryx owenii,1377,14.21,D,I,T,F,N,N,L,N,Y,McNab 1996
+Apus apus,44.9,1.57,N,FI,T,D/G,Y,Y,N,N,N,Kendeigh et al. 1977
+Aramides cajanea,374.3,5.55,D/N,O,TR,F,N,N,N,N,N,McNab & Ellis 2006
+Arremonops conirostris,39.7,1.63,N,S,TR,F,N,N,N,N,N,Wiersma et al. 2007
+Artamus maximus,60,1.99,N,FI,TR,O,N,N,N,Y,N,"McNab, pers. obs."
+Astrapia stephaniae,148.2,5.8,D/N,F/I,TR,F,N,N,N,Y,N,McNab 2005
+Atlantisia rogersi,39.4,0.81,N,O,T,G,N,N,S,N,Y,Ryan et al. 1989
+Bebulcus ibis,299.2,4.74,D,O,T/TR,W/O,N,Y,N,N,N,Ellis 1980
+Bombycilla garrulus,72.5,3.43,N,F/I,T,F,N,Y,N,N,N,Kendeigh et al. 1977
+Callipepla californica,137.1,2.76,N,S/L,T,G,N,N,N,N,N,Hudson & Brush 1964
+Callipepla gambelii,126.1,2.72,N,S,T,D,N,N,N,N,N,Weathers 1981
+Camptostoma obsoletum,12.5,0.95,N,I,TR,B,N,N,N,N,N,Wiersma et al. 2007
+Cardinalis cardinalis,41,1.81,N,I/S,T,B,N,N,N,N,N,Hinds & Calder 1973
+Cardinalis sinuatus,32,1.41,N,I/S,T,B,N,N,N,N,N,Hinds & Calder 1973
+Carduelis cannabina,16.9,1.22,N,S,T,B,N,+/O,N,N,N,Kendeigh et al. 1977
+Carduelis carduelis,16.5,1.25,N,S,T,O,N,+/O,N,N,N,Kendeigh et al. 1977
+Carduelis chloris,28.2,1.71,N,S,T,F,N,N,N,N,N,Kendeigh et al. 1977
+Carduelis flammea,14.7,1.25,N,S,P,O,N,Y,N,N,N,Reinertsen & Haftorn 1986
+Carduelis spinus,14,1.05,N,S,T,F,N,+/O,N,N,N,Kendeigh et al. 1977
+Carduelis tristis,12.8,1.09,N,S,T,F/O,N,+/O,N,N,N,Dawson & Carey 1976
+Carpodacus cassinii,27.4,1.22,N,S,T,F,N,+/O,N,Y,N,Weathers 1981
+Carpodacus erythrinus,21.2,1.33,N,S/L,T,B,N,Y,N,N,N,Kendeigh et al. 1977
+Carpodacus mexicanus,20.4,1.12,N,S,T,O,N,N,N,N,N,Weathers 1981
+Celeus loricatus,83.1,2.47,N,I,TR,F,N,N,N,N,N,Wiersma et al. 2007
+Cepphus grille,342.2,10.92,D/N,AI,P,M,N,Y,N,N,N,Gabrielsen et al. 1991
+Cercomacra tyrannina,15.4,0.68,N,I,TR,F,N,N,N,N,N,Wiersma et al. 2007
+Certhilauda erythrochlamys,27.3,1.5,N,I,T,D,N,N,N,N,N,Williams 1999
+Chalcomitrak adelberti,9.5,0.63,N,P/I,TR,F,N,N,N,N,N,Prinzinger et al. 1989
+Chalcomitrak amethystina,10,0.63,N,P/I,TR,F,N,+/O,N,N,N,Prinzinger et al. 1989
+Chalcomitrak obscura,11.2,0.72,N,P/I,TR,F,N,N,N,N,N,Seavy 2006
+Chalcomitrak rubescens,10,0.66,N,P/I,TR,F,N,N,N,N,N,Seavy 2006
+Chalcomitrak senegalensis,13.7,0.86,N,P/I,TR,F/O,N,+/O,N,N,N,Seavy 2006
+Chiroxiphia lanceolata,18.4,1.22,,F,TR,F,NA,N,N,N,N,Wiersma et al. 2007
+Chloebia gouldiae,15.5,0.78,N,S,T,G,N,N,N,N,N,Marschall & Prinzinger 1991
+Cicinnurus regius,54,2.1,N,F/I,TR,F,N,N,N,N,N,McNab 2005
+Cinnyrisk bifiscatus,6.2,0.33,N,P/I,TR,B,N,+/O,N,N,N,Prinzinger et al. 1989
+Cinnyrisk chloropygius,6.8,0.5,N,P/I,TR,B,N,+/O,N,N,N,Seavy 2006
+Cinnyrisk cupreus,9,0.59,N,P/I,TR,F/O,N,+/O,N,N,N,Seavy 2006
+Cinnyrisk minimus,5.5,0.42,N,P/I,TR,F,N,N,N,N,N,Seavy 2006
+Cinnyrisk reichenowik,6.7,0.51,N,P/I,TR,F,N,+/O,N,Y,N,Seavy 2006
+Cinnyrisk venustus,7.1,0.5,N,P/I,TR,F,N,+/O,N,Y,N,Prinzinger et al. 1989
+Cnemophilus loriae,78.1,2.38,D/N+,F,TR,F,N,N,N,Y,N,McNab 2005
+Cnemophilus macgregori,89,2.68,N,F,TR,F,N,N,N,Y,N,"McNab, pers. obs."
+Cnipodectes subbrunneus,20.5,0.99,N,I,TR,F,N,N,N,N,N,Wiersma et al. 2007
+Coccothraustes coccothraustes,48.3,2.51,N,O,T,F,N,N,N,N,N,Kendeigh et al. 1977
+Coccothraustes vespertina,54.5,2.71,N,S/N,T,F,N,+/O,N,Y,N,West & Hart 1966
+Coereba flaveola,10,0.77,N,P,TR,F,N,N,I,N,N,Merola-Zwartjes 1998
+Colius castanotus,69,1.66,N,F,TR,F,Y,N,N,N,N,Prinzinger et al. 1981
+Colius colius,35.1,0.64,N,F,T,F,Y,N,N,N,N,McKechnie & Lovegrove 2001b
+Colius striatus,51,0.85,N,F,TR,F,Y,N,N,N,N,McKechnie & Lovegrove 2001a
+Collocalia esculenta,6.8,0.29,N,FI,TR,F,Y,N,N,N,N,McNab & Bonaccorso 1995
+Collocalia vanikorensis,11.6,0.43,N,FI,TR,F,NA,N,N,N,N,McNab & Bonaccorso 1995
+Contopus virens,13.9,0.93,N,FI,T,F,N,Y,N,N,N,Yarbrough 1971
+Corvus corax,1203,19.8,N,O,T,O,N,N,N,N,N,Kendeigh et al. 1977
+Corvus corone,518,11.93,N,O,T,O,N,N,N,N,N,Kendeigh et al. 1977
+Corvus frugilegus,390,9.42,N,O,T,F/O,N,+/O,N,N,N,Kendeigh et al. 1977
+Corvus monedula,188,6.19,N,O,T,O,N,N,N,N,N,Daan et al. 1990
+Corvus ruficollis,660,12.23,N,V/I,T,D,N,N,N,N,N,Kendeigh et al. 1977
+Crateroscelis nigrorufa,14.6,0.74,N,I,TR,F,N,N,N,Y,N,"McNab, pers. obs."
+Crateroscelis robusta,17.3,0.91,N,I,TR,F,N,N,N,Y,N,"McNab, pers. obs."
+Crex crex,96,2.83,N,O,T,G,N,Y,N,N,N,Kendeigh et al. 1977
+Cyanerpes cyaneus,13.5,0.98,N,F/P,TR,B,N,N,N,N,N,Wiersma et al. 2007
+Cyanocitta cristata,80.8,3,N,O,T,O,N,N,N,N,N,Misch 1960
+Cyanocompsa cyanoides,27.9,1.35,N,F/S,TR,F,N,N,N,N,N,Wiersma et al. 2007
+Cyanomitrak cyanolema,15.8,0.98,N,P/I,TR,F,N,N,N,N,N,Seavy 2006
+Cyanomitrak veroxii,8.4,0.48,N,I,TR,F,N,N,N,N,N,Prinzinger et al. 1989
+Cyanomitrak verticalis,14.1,0.9,N,P/I,TR,F,N,N,N,N,N,Seavy 2006
+Delichon urbica,18,0.46,N,FI,T,O,Y,Y,N,N,N,Prinzinger & Hänssler 1980
+Dendrocincla fuliginosa,39,1.77,N,I,TR,F,N,N,N,N,N,Wiersma et al. 2007
+Dendrocopus major,98,3.22,N,I,T,F,N,N,N,N,N,Kendeigh et al. 1977
+Dendroica coronata,11.5,0.68,N,F/I,T,F,N,Y,N,N,N,Yarbrough 1971
+Dendroica dominica,9.8,0.58,N,I,T,F,N,Y,N,N,N,Yarbrough 1971
+Dendroica palmarum,9.8,0.56,N,I,T,O,N,Y,N,N,N,Yarbrough 1971
+Dendroica petechia,12.2,0.5,N,I,TR,F,N,Y,N,N,N,Wiersma et al. 2007
+Dendroica pinus,12,0.64,N,I,T,F,N,+/O,N,N,N,Yarbrough 1971
+Diomedea chrysostoma,3753,30.63,N,AI,T,P,N,Y,N,N,N,Adams & Brown 1984
+Diomedea exulans,8130,73.17,N,AI,T,P,N,Y,N,N,N,Brown & Adams 1984
+Diphyllodesk magnificus,82.3,2.84,N,F/I,TR,F,N,N,N,N,N,McNab 2005
+Dromaius novaehollandiae,"38,900",126.04,N,O,T,G,N,N,N,N,Y,Maloney & Dawson 1994
+Egretta thula,314,4.89,D,V/AI,T/TR,W,N,Y,N,N,N,Ellis 1980
+Egrettak caerulea,290.3,3.59,D,AI,T/TR,W,N,Y,N,N,N,Ellis 1980
+Egrettak tricolor,309,6.12,D,V,T/TR,W,N,Y,N,N,N,Ellis 1980
+Emberiza citrinella,26.8,1.57,N,S,T,O,N,+/O,N,N,N,Gavrilov & Dol’nik 1985
+Emberiza hortulana,24.3,1.5,N,I,T,O,N,Y,N,N,N,Gavrilov & Dol’nik 1985
+Emberiza schoeniclus,17.6,1.08,N,S,T,O,N,+/O,N,N,N,Kendeigh et al. 1977
+Empidonax virescens,12.3,0.64,N,FI,T,F,N,Y,N,N,N,Yarbrough 1971
+Epimachus meyeri,202.7,6.63,D/N,F/I,TR,F,N,N,N,Y,N,McNab 2005
+Eremalauda dunni,20.6,1,N,I/S,TR,B,N,N,N,N,N,Tieleman et al. 2002
+Eremophila alpestris,26,1.19,N,I,T,B/G,N,+/O,N,N,N,Trost 1972
+Erithacus rubecula,17.6,1.01,N,F/I,T,F,N,+/O,N,N,N,Kendeigh et al. 1977
+Erythrura trichroa,15.1,0.86,N,F/S,TR,B,N,N,N,Y,N,"McNab, pers. obs."
+Estrilda melpoda,7.5,0.47,N,I/S,TR,O,N,N,N,N,N,Marschall & Prinzinger 1991
+Estrilda troglodytes,7.5,0.54,N,S,TR,O,N,N,N,N,N,Kendeigh et al. 1977
+Eucometis penicillata,30.7,1.42,N,F/I,TR,F,N,N,N,N,N,Wiersma et al. 2007
+Eudyptes chrysocome,2330,21,?,AI,P,M,N,Y,N,N,Y,Gavrilov 1977; Brown 1984
+Eudyptes chrysolophus,3870,31.13,?,AI,T,P,N,Y,N,N,Y,Gavrilov 1977; Brown 1984
+Eudyptes pachyrhynchus,2600,24.92,N,AI,T,M,N,Y,N,N,Y,Drent & Stonehouse 1971
+Eudyptula minor,1100,11.49,N,V,T,M,N,N,N,N,Y,Baudinette et al. 1986
+Eulacestoma nigropectus,19.9,1.24,N,I,TR,F,N,N,N,Y,N,"McNab, pers. obs."
+Euphonia laniirostris,13.5,1.06,N,F,TR,B,N,N,N,N,N,Wiersma et al. 2007
+Ficedula hypoleuca,11.7,0.84,N,I,T,F,N,Y,N,N,N,Kendeigh et al. 1977
+Fratercula arctica,329,9.25,N,V,T,M,N,Y,N,N,N,Bryant & Furness 1995
+Fringilla coelebs,21,1.34,N,S,T,F,N,+/O,N,N,N,Gavrilov & Dol’nik 1985
+Fringilla montifringilla,21,1.38,N,O,T,F,N,Y,N,N,N,Kendeigh et al. 1977
+Fulica atra,412,7.36,N,AV,T,L,N,+/O,N,N,N,Kendeigh et al. 1977
+Fulmarus glacialis,728,13.75,N,AI,P,M,N,Y,N,N,N,Bryant & Furness 1995
+Gallinula mortierii,954.4,11.47,D/N,AV,T,G,N,N,N,N,Y,McNab & Ellis 2006
+Gallinula tenebrosa,512.4,8.42,D/N,AV,T,W,N,N,N,N,N,McNab & Ellis 2006
+Gallinula ventralis,309.2,5.81,D/N,AV,T,W,N,N,N,N,N,McNab & Ellis 2006
+Gallirallus australis,813.5,6.58,D/N,O,T,F,N,N,L,N,Y,McNab & Ellis 2006
+Gallirallus owstoni,198.8,3.3,D/N,O,TR,F,N,N,S,N,Y,McNab & Ellis 2006
+Gallirallus philippensis,171.7,3.51,D/N,O,TR,G,N,N,N,N,N,McNab & Ellis 2006
+Garrulus glandarius,153,4.99,N,O,T,F,N,N,N,N,N,Kendeigh et al. 1977
+Glyphorynchus spirurus,13.5,0.72,N,I,TR,F,N,N,N,N,N,Wiersma et al. 2007
+Gymnopithys bicolor,27.7,1.2,N,I,TR,F,N,N,N,N,N,Wiesma et al. 2007
+Habia fuscicauda,40,1.28,N,F/I,TR,F,N,N,N,N,N,Wiersma et al. 2007
+Haematopus ostralegus,554,10.48,N,AI,T,M/L,N,Y,N,N,N,Kersten & Piersma 1987
+Halobaena caerulea,191,6.38,N,AI,T,P,N,N,N,N,N,Brown 1988
+Hedydipnak collaris,8.3,0.61,N,I,TR,F,N,N,N,N,N,Prinzinger et al. 1989
+Himatione sanguinea,13.5,1.08,N,P,TR,F,N,N,I,N,N,Weathers et al. 1983
+Hirundo rustica,18.4,1.08,N,FI,T,O,Y,Y,N,N,N,Gavrilov & Dol’nik 1985
+Hirundo tahitica,14.1,0.64,N,FI,TR,O,N,N,N,N,N,Bryant et al. 1984
+Hylophylax naevioides,16.1,0.86,N,I,TR,F,N,N,N,N,N,Wiersma et al. 2007
+Icterus bullocki,34,1.81,N,F/I,T,F,N,Y,N,N,N,Rising 1969
+Icterus galbula,34,1.81,N,F/I,T,F,N,Y,N,N,N,Rising 1969
+Ifrita kowaldi,28.9,1.13,N,I,TR,F,N,N,N,Y,N,"McNab, pers. obs."
+Jynx toquilla,31.8,1.29,N,I,T,F,N,Y,N,N,N,Kendeigh et al. 1977
+Lanius collurio,27,1.38,N,V/I,T,O,N,Y,N,N,N,Kendeigh et al. 1977
+Lanius excubitor,72.4,3.68,N,V/I,T,O,N,+/O,N,N,N,Kendeigh et al. 1977
+Larus argentatus,924,17.83,N,O,T,M/L,N,Y,N,N,N,Bryant & Furness 1995
+Larus canus,431,8.1,N,AI,T,M,N,Y,N,N,N,Kendeigh et al. 1977
+Larus ridibundus,306,6.7,N,AI,T,M/L,N,Y,N,N,N,Kendeigh et al. 1977
+Lepidothrix coronata,9.2,0.54,N,F/I,TR,F,NA,N,N,N,N,Wiersma et al. 2007
+Lichenostomus virescens,-25,1.07,N,P/I,T/TR,D,N,N,N,N,N,Collins et al. 1980
+Lichmera indistincta,10.1,0.76,N,P/I,T/TR,F,N,N,N,N,N,Vitali et al. 1999
+Lonchura fuscans,9.5,0.36,N,S,TR,O,N,N,N,N,N,Weathers 1977
+Lonchura striata,10.3,0.77,N,S,TR,B,N,N,N,N,N,Kendeigh et al. 1977
+Lonchurak cucullata,10.6,0.39,N,S,T/TR,O,N,N,N,N,N,Lovegrove & Smith 2003
+Lonchurak oryzivora,25.4,1.11,N,O,T,F/G,N,N,N,N,N,Marschell & Prinzinger 1991
+Lophorina superba,74.6,2.6,D/N,F/I,TR,F,N,N,N,N,N,McNab 2005
+Loxia curvirostra,39.4,2.16,N,S,T,F,N,N,N,N,N,Kendeigh et al. 1977
+Loxia leucoptera,29.8,1.67,N,S,T,F,N,+/O,N,Y,N,Dawson & Tordoff 1964
+Loxia pytyopsittacus,53.7,2.87,N,S,T,F,N,Y,N,N,N,Kendeigh et al. 1977
+Loxioides bailleui,34.8,1.61,N,S,TR,F,N,N,I,N,N,Weathers & van Riper 1982
+Luscinia svecica,20.8,1.29,N,I,T,F/O,N,Y,N,Y,N,Kendeigh et al. 1977
+Macheirhamphus nigripectes,9.7,0.83,N,I,TR,F,N,N,N,Y,N,"McNab, pers. obs."
+Macronectes giganteus,4780,48.08,N,V,P,M,N,Y,N,N,N,Brown & Adams 1984
+Manacus vitellinus,15.5,0.84,N,F/I,TR,F,Y,N,N,N,N,Bartholomew et al. 1983
+Manucodia chalybata,177.2,4.94,N,F,TR,F,N,N,N,N,N,McNab 2005
+Megadyptes antipodes,4800,41.45,N,V,T,M,N,N,N,N,Y,Drent & Stonehouse 1971
+Melanerpes rubricapillus,48.7,1.93,N,I,TR,F,N,N,N,N,N,Wiersma et al. 2007
+Melanocharis versteri,13.6,0.88,N,F/I,TR,F,N,N,N,Y,N,"McNab, pers. obs."
+Melidectes rufocrissalis,62.8,2.8,N,P/I,TR,B,N,N,N,Y,N,"McNab, pers. obs."
+Melipotes fumigatus,57.1,2.44,N,F,TR,F,N,N,N,Y,N,"McNab, pers. obs."
+Melithreptus lunatus,14.3,0.9,N,I,T,F,N,N,N,N,N,Vitali et al. 1999
+Melospiza georgiana,14.9,0.76,N,I/S,T,B,N,Y,N,N,N,Yarbrough 1971
+Melospiza melodia,19.1,0.9,N,I/S,T,B,N,Y,N,N,N,Yarbrough 1971
+Merops viridis,33.8,1.07,N,I,TR,G,N,N,N,N,N,Bryant et al. 1984
+Microeca papuanus,12.5,1.11,N,FI,TR,F,N,N,N,Y,N,"McNab, pers. obs."
+Mimus gilvus,68.9,2.66,N,O,TR,B,N,N,N,N,N,Wiersma et al. 2007
+Mimus polyglottus,44.2,2.44,N,O,T,B,N,N,N,N,N,Wiersma et al. 2007
+Mionectes oleagineus,10.3,0.59,N,F,TR,F,N,N,N,N,N,Wiersma et al. 2007
+Momotus momota,102.4,1.77,N,I,TR,F,N,N,N,N,N,Wiersma et al. 2007
+Monarchus axillaris,17.5,1.81,N,I,TR,F,N,N,N,Y,N,"McNab, pers. obs."
+Morus bassanus,2574,44.96,N,V,T,M,N,Y,N,N,N,Bryant & Furness 1995
+Motacilla alba,18,1.08,N,I,T,O,N,+/O,N,N,N,Gavrilov & Dol’nik 1985
+Motacilla flava,14.7,0.93,N,I,T,G,N,Y,N,N,N,Kendeigh et al. 1977
+Muscicapa striata,14.4,0.89,N,I,T,O,N,Y,N,N,N,Kendeigh et al. 1977
+Myiarchus crinitus,33.9,1.38,N,FI,T,F,N,Y,N,N,N,Yarbrough 1971
+Myiodynastes maculatus,41,2.12,N,FI,TR,F,N,+/O,N,N,N,Wiersma et al. 2007
+Mymeciza longipes,27.4,1.17,N,I,TR,F,N,N,N,N,N,Wiesma et al. 2007
+Myrmeciza exsul,28.3,1.04,N,I,TR,F,N,N,N,N,N,Wiesma et al. 2007
+Myrmotherula axillaris,9.6,0.78,N,I,TR,F,N,N,N,N,N,Wiersma et al. 2007
+Nectarinia kilimensis,16.2,0.94,N,P/I,TR,F,N,N,N,Y,N,Seavy 2006
+Nectarinia tacazze,13.5,0.88,N,P/I,TR,O,Y,N,N,Y,N,Prinzinger et al. 1989
+Notharchus macrorhynchos,43.2,1.14,N,I,TR,G,N,N,N,N,N,Wiersma et al. 2007
+Nothoprocta perdicaria,458,6.35,D,S,T,G,N,N,N,Y,N,Withers et al. 1987
+Nucifraga caryocatactes,147,4.85,N,O,T,F,N,N,N,Y,N,Kendeigh et al. 1977
+Opisthocomus hoazin,598,5.76,D/N,L,TR,F,N,N,N,N,N,Grajal 1991
+Oreocharis arfaki,22.3,1.16,N,F,TR,F,N,N,N,Y,N,"McNab, pers. obs."
+Oreostruthus fuliginosus,16,0.59,N,F/S,TR,B,N,N,N,Y,N,"McNab, pers. obs."
+Oreotrochilus estella,8.4,0.69,N,P,TR,A,Y,N,N,N,N,Carpenter 1976
+Oriolus oriolus,64.9,2.34,N,I,T,F,N,Y,N,N,N,Kendeigh et al. 1977
+Oryzoborus angolensis,12.3,0.72,N,S,TR,B,N,Y,N,N,N,Wiersma et al. 2007
+Pachycephala rufinucha,38.6,1.5,N,F/I,TR,F,N,N,N,Y,N,"McNab, pers. obs."
+Pachycephala schlegelii,22.6,1,N,F/I,TR,F,N,N,N,Y,N,"McNab, pers. obs."
+Pachycephala soror,23.3,1.31,N,I,TR,F,N,N,N,Y,N,"McNab, pers. obs."
+Paradisaea raggiana,215.7,6.75,D/N,F/I,TR,F,N,N,N,N,N,McNab 2005
+Paradisaea rudolphi,156.1,5.48,N,F/I,TR,F,N,N,N,N,N,McNab 2005
+Paramythia montium,40.3,1.5,N,F,TR,F,N,N,N,Y,N,"McNab, pers. obs."
+Parotia lawesi,144.9,4.13,N,F,TR,F,N,N,N,N,N,McNab 2005
+Parotia wahnesi,164.2,4.64,N,F,TR,F,N,N,N,N,N,McNab 2005
+Parus ater,10.8,0.85,N,I/S,T,F,N,+/O,N,N,N,Kendeigh et al. 1977
+Parus caeruleus,9.6,0.6,N,I/S,T,F,N,+/O,N,N,N,Lindström & Kvist 1995
+Parus major,16.5,1.26,N,I/S,T,F,Y,+/O,N,N,N,Reinertsen & Haftorn 1986
+Parus montanus,11.6,0.99,N,I/S,T,F,N,N,N,N,N,Reinertsen & Haftorn 1986
+Passer domesticus,23,1.32,N,S/L,T,O,N,N,N,N,N,Kendeigh et al. 1977
+Passer montanus,22.3,1.46,N,I/S,T,O,N,N,N,N,N,Kendeigh et al. 1977
+Passerculus sandwichensis,15.9,0.8,N,I/S,T,G,N,Y,N,N,N,Williams & Ha
+Patagona gigas,19.1,1.03,N,P,TR,G/A,Y,+/O,N,Y,N,Lasiewski et al. 1967
+Peneothello cyanus,23.8,1.26,N,I,TR,F,N,N,N,Y,N,"McNab, pers. obs."
+Peneothello sigillatus,21.6,1.12,N,I,TR,F,N,N,N,Y,N,"McNab, pers. obs."
+Phalacrocorax aristotelis,1619,30.79,N,V,T,M,N,N,N,N,N,Bryant & Furness 1995
+Phalacrocorax auritus,1330,19.77,N,V,T,M/L,N,Y,N,N,N,Hennemann 1983
+Philemon buceroides,140.5,5.06,N,O,TR,F,N,N,N,N,N,Bonaccorso & McNab pers. obs.
+Phoebetria fusca,2875,29.79,N,AI,T,P,N,Y,N,N,N,Adams & Brown 1984
+Phoeniculus purpureus,74.1,1.25,N,I,TR,G,N,N,N,N,N,Boix-Hinzen & Lovegrove 1998
+Phoenicurus ochruros,13.8,0.87,N,F/I,T,O,N,+/O,N,N,N,Kendeigh et al. 1977
+Phoenicurus phoenicurus,13,0.84,N,F/I,T,F,N,Y,N,N,N,Kendeigh et al. 1977
+Phonygammusk keraudrenii,170.7,4.31,N,F,TR,F,N,N,N,N,N,McNab 2005
+Phylidonyris melanops,18.8,1.05,N,P/I,T,O,N,N,N,N,N,Vitali et al. 1999
+Phyllastrephus hypochloris,18.9,0.95,N,I,TR,F,N,N,N,Y,N,Seavy & McNab 2007
+Phylloscopus collybita,8.2,0.59,N,I,T,F,N,+/O,N,N,N,Kendeigh et al. 1977
+Phylloscopus sibilatrix,9.2,0.63,N,I,T,F,N,Y,N,N,N,Kendeigh et al. 1977
+Phylloscopus trochilus,10.7,0.75,N,I,T,B,N,Y,N,N,N,Kendeigh et al. 1977
+Phytotoma rara,41.6,2.06,N,L/G,T,G,N,+/O,N,N,N,Rezende et al. 2001
+Pica nuttalli,151.9,5.28,N,O,T,O,N,N,N,N,N,Hayworth & Weathers 1984
+Pica pica,158.9,4.31,N,O,T,O,N,N,N,N,N,Hayworth & Weathers 1984
+Picoides pubescens,23.3,1.19,N,I,T,F,N,Y,N,N,N,Liknes & Swanson 1996
+Pinicola enucleator,78.4,3.91,N,L,T,F,N,+/O,N,Y,N,Gavrilov & Dol’nik 1985
+Pipra mentalis,12.3,0.7,N,F/I,TR,F,Y,N,N,N,N,Bartholomew et al. 1983
+Pitohui nigrescens,70.5,2.27,N,F/I,TR,F,N,N,N,Y,N,"McNab, pers. obs."
+Pitta versicolor,83.1,2.04,D/N,I,T/TR,F,N,Y,N,N,N,McNab pers obs
+Podiceps nigricollis,317,7.71,D/N,AI,T,W,N,Y,N,N,N,Ellis & Jehl 2003
+Poecile atricapillus,10.3,0.91,N,I/S,T,F/O,N,N,N,N,N,Rising & Hudson 1974
+Poecilodryas albonotata,36.4,1.62,N,FI,TR,F,N,N,N,Y,N,"McNab, pers. obs"
+Pooectes gramineus,21.5,0.98,N,I/S,T,G,N,Y,N,N,N,Yarbrough 1971
+Porphyrio hochstetteri,2758.3,24.79,D,G,T,A,N,N,L,Y,Y,McNab & Ellis 2006
+Porphyrio porphyrio,919.3,13.31,D/N,AV,TR,W,N,N,N,N,N,McNab & Ellis 2006
+Porzana cinerea,47.9,1.78,D/N,O,TR,W,N,N,N,N,N,McNab & Ellis 2006
+Procellaria aequinoctialis,1287,22.71,N,AI,T,P,N,Y,N,N,N,Brown & Adams 1984
+Procellaria cinerea,1014,18.04,N,AI,T,P,N,Y,N,N,N,Brown & Adams 1984
+Progne chalybea,34.9,1.68,N,FI,TR,O,N,+/O,N,N,N,Wiersma et al. 2007
+Prosthemadera novaeseelandiae,144.2,3.98,D,F/I,T,F,N,N,L,N,N,"McNab, pers.obs."
+Protonotaria citrea,12.8,0.72,N,I,T,F,N,Y,N,N,N,Yarbrough 1971
+Prunella modularis,16.8,1.17,N,I,T,B,N,+/O,N,N,N,Kendeigh et al. 1977
+Psaltriparus minimus,5.5,0.46,N,I/S,T,F/O,N,N,N,N,N,Chaplin 1982
+Pterocles orientalis,386.4,7.01,N,S,T,G,N,N,N,N,N,Hinsley et al. 1993
+Pterodroma brevirostris,315,6.38,N,AI,T,P,N,Y,N,N,N,Brown & Adams 1984
+Pterodroma macroptera,479,9.71,N,AI,T,P,N,Y,N,N,N,Brown 1988
+Pterodroma mollis,274,6.29,N,AI,T,P,N,Y,N,N,N,Adams & Brown 1984
+Ptiloprora guisei,20.7,1.05,N,F/I,TR,F,N,N,N,Y,N,"McNab, pers. obs."
+Ptiloris magnificus,179.4,5.4,D/N,F/I,TR,F,N,N,N,N,N,McNab 2005
+Puffinus puffinus,367,8.38,N,V,T,M,N,Y,N,N,N,Bryant & Furness 1995
+Pycnonotus barbatus,40.3,1.72,N,F,TR,F,N,N,N,N,N,Seavy & McNab 2007
+Pygoscelis adeliae,3970,44.04,D?,AI,P,M,N,Y,N,N,Y,Kooyman et al. 1976
+Pyrrhocorax graculus,206.4,6.17,N,O,T,O,N,N,N,Y,N,Kendeigh et al. 1977
+Pyrrhula pyrrhula,30.4,1.99,N,L,T,F,N,N,N,N,N,Kendeigh et al. 1977
+Quiscalus mexicanus,137.3,4.06,N,O,TR,B,N,N,N,N,N,Wiersma et al. 2007
+Quiscalus quiscula,92.2,3.56,N,O,T,B,N,+/O,N,N,N,Wiersma et al. 2007
+Regulus regulus,5.5,0.66,N,I,T,F,N,+/O,N,N,N,Kendeigh et al. 1977
+Rhamphocelus dimidiatus,26.4,1.32,N,F/I,TR,B,N,N,N,N,N,Wiersma et al. 2007
+Rhamphocelus flammingerus,32,1.5,N,F/I,TR,B,N,N,N,N,N,Wiersma et al. 2007
+Rhipidura albolimbata,9.7,0.59,N,FI,TR,F,N,N,N,Y,N,"McNab, pers. obs."
+Rhipidura atra,11,1.11,N,FI,TR,F,N,N,N,Y,N,"McNab, pers. obs."
+Rhodostethia rosea,155,3.83,N,AI,P,T,N,Y,N,N,N,Gavrilov 1996
+Rhynchocyclus olivaceus,21,1.08,N,I,TR,F,N,N,N,N,N,Wiersma et al. 2007
+Rhyticeros plicatus,1781.6,16.33,N,F,TR,F,N,N,N,N,N,McNab 2001
+Riparia riparia,13.6,0.84,N,FI,T,O,N,Y,N,N,N,Kendeigh et al. 1977
+Rissa tridactyla,305,9.88,N,AI,P,B,N,Y,N,N,N,Bryant & Furness 1995
+Saltator coerulescens,47,1.4,N,F/L,TR,B,N,N,N,N,N,Bosque et al. 1999
+Saltator maximus,44.8,1.97,N,F/I,TR,F,N,N,N,N,N,Wiersma et al. 2007
+Saltator orenocensis,32.7,1.13,N,F/L,TR,B,N,N,N,N,N,Bosque et al. 1999
+Saltator striatipectus,42.1,1.83,N,F/I,TR,B,N,N,N,N,N,Wiersma et al. 2007
+Saxicola rubetra,14.3,0.87,N,I,T,O,N,Y,N,N,N,Kendeigh et al. 1977
+Saxicola torquata,16.5,0.92,N,I,TR,D,N,+/O,N,N,N,Klaassen 1995
+Sayornis phoebe,21.6,1.24,N,FI,T,F,N,Y,N,N,N,Yarbrough 1971
+Seiurus aurocapillus,19,0.87,N,I,T,F,N,Y,N,N,N,Yarbrough 1971
+Seiurus novaeboracensis,18.7,1.01,N,I,T,F,N,Y,N,N,N,Yarbrough 1971
+Sephanoides sephanoides,5.7,0.37,N,P,T,F,Y,Y,N,N,N,Lopez-Calleja & Bozinovic 1995
+Sericornis frontalis,11,0.66,N,I,T/TR,B,N,N,N,N,N,Ambrose & Bradshaw 1988
+Sericornis nouhuysi,16.6,1.01,N,I,TR,F,N,N,N,Y,N,"McNab, pers. obs."
+Sericornis papuensis,10.4,0.66,N,I,TR,F,N,N,N,Y,N,"McNab, pers. obs."
+Sericornis perspicillatus,8.8,0.78,N,I,TR,F,N,N,N,Y,N,"McNab, pers. obs."
+Sialia mexicana,27.5,1.52,N,F/I,T,F,N,+/O,N,N,N,Mock 1991
+Sitta carolinesis,18.3,1.04,N,I/S,T,F,N,N,N,N,N,Liknes & Swanson 1996
+Spheniscus humboldti,3870,34.14,N,V,T,M,N,Y,N,N,Y,Drent & Stonehouse 1971
+Spizella passerina,11.9,0.7,N,I/S,T,F,N,Y,N,N,N,Yarbrough 1971
+Sporophila americana,10.2,0.71,N,S,TR,O,N,N,N,N,N,Wiersma et al. 2007
+Stegidopteryx ruficollis,11.9,0.57,N,FI,TR,O,N,N,N,N,N,Wiersma et al. 2007
+Stercorarius parasiticus,351,8.29,N,V,P,M,N,Y,N,N,N,Bryant & Furness 1995
+Sterocrarius skua,1159,22.42,N,V,P,M,N,Y,N,N,N,Bryant & Furness 1995
+Struthio camelus,"92,400",209.66,N,O,TR,G,N,N,N,N,Y,Withers 1983
+Sturnella militaris,38.2,1.59,N,I,TR,G,N,N,N,N,N,Wiersma et al. 2007
+Sturnus vulgaris,75,3.16,N,O,T,O,N,N,N,N,N,Kendeigh et al. 1977
+Sylvia atricapilla,21.9,1.5,N,I,T,F,N,+/O,N,N,N,Kendeigh et al. 1977
+Sylvia borin,24.8,1.5,N,I,T,F,N,Y,N,N,N,Kendeigh et al. 1977
+Sylvia curruca,10.6,0.72,N,I,T,B,N,Y,N,N,N,Kendeigh et al. 1977
+Sylvia nisoria,21.3,1.38,N,I,T,B,N,Y,N,N,N,Kendeigh et al. 1977
+Tachycineta albilinea,11.7,0.9,N,FI,TR,O,N,N,N,N,N,Wiersma et al. 2007
+Tachycineta bicolor,16.4,1.03,N,FI,TR,O,N,Y,N,N,N,Wiersma et al. 2007
+Taeniopygia guttata,11.7,0.74,N,I/L,T/TR,O,N,N,N,N,N,Calder 1964
+Tanagra larvata,16.2,0.85,N,F/I,TR,F,N,N,N,N,N,Wiersma et al. 2007
+Tarsiger cyanurus,14.8,0.85,N,I,T,F,N,Y,N,Y,N,Gavrilov & Dol’nik 1985
+Telespiza cantans,31.6,1.53,N,O,TR,G,N,N,I,N,N,Weathers & van Riper 1982
+Thamnophilus atrinuchs,20.5,1.01,N,I,TR,F,N,N,N,N,N,Wiersma et al. 2007
+Thamnophilus doliatus,26.2,1.03,N,I,TR,F,N,N,N,N,N,Wiersma et al. 2007
+Thamnophilus punctatus,21,1.24,N,I,TR,F,N,N,N,N,N,Vleck & Vleck 1979
+Thraupis episcopus,30.4,1.44,N,F/I,TR,B,N,N,N,N,N,Wiersma et al. 2007
+Thraupis palmarum,32.6,1.42,N,F/I,TR,B,N,N,N,N,N,Wiersma et al. 2007
+Thryothorus fasciatoventris,27.2,1.12,N,I,TR,F,N,N,N,N,N,Wiersma et al. 2007
+Thryothorus leucotis,18,0.76,N,I,TR,F,N,N,N,N,N,Wiersma et al. 2007
+Thryothorus ludovicianus,14.9,1.29,N,I,T,F,N,N,N,N,N,Eberhardt 1994
+Thryothorus rufalbus,22.6,1.07,N,I,TR,F,N,N,N,N,N,Wiersma et al. 2007
+Todirostrum cinereum,7.3,0.61,N,I,TR,B,N,N,N,N,N,Wiersma et al. 2007
+Todus mexicanus,6.3,0.41,N,I,TR,F,Y,N,I,N,N,Merola-Zwartjes & Ligon 2000
+Toxorhamphus poliopterus,13.2,0.69,N,P/I,TR,F,N,N,N,Y,N,"McNab, pers. obs."
+Troglodytes aedon,10.2,0.75,N,I,T,O,N,Y,N,N,N,Wiersma et al. 2007
+Troglodytes musculus,13.3,0.76,N,I,TR,O,N,N,N,N,N,Wiersma et al. 2007
+Troglodytes troglodytes,8.9,0.6,N,I,T,F,N,+/O,N,N,N,Lindström & Kvist 1995
+Turdus grayi,77.9,2.44,N,F/I,TR,F/O,N,N,N,N,N,Wiersma et al. 2007
+Turdus iliacus,58,2.6,N,F/I,T,F/O,N,Y,N,N,N,Kendeigh et al. 1977
+Turdus merula,82.6,3.34,N,I,T,F,N,+/O,N,N,N,Kendeigh et al. 1977
+Turdus migratorius,62.4,2.74,N,F/I,T,F/B,N,+/O,N,N,N,Wiermsa et al. 2007
+Turdus philomelos,62.8,2.61,N,F/I,T,F,N,+/O,N,N,N,Gavrilov & Dol’nik 1985
+Turdus poliocephalus,66.1,2.56,N,F/I,TR,F/O,N,N,N,Y,N,"McNab, pers. ob."
+Turdus viscivorus,108.2,3.97,N,F/I,T,F,N,+/O,N,N,N,Kendeigh et al. 1977
+Turnix suscitator,58.1,1.39,N,S,TR,G,N,N,N,N,N,Prinzinger et al. 1993
+Tyrannus melancholicus,38,1.31,N,FI,TR,G,N,+/O,N,N,N,Wiersma et al. 2007
+Tyrannus tyrannus,35.7,1.57,N,FI,T,G,N,Y,N,N,N,Yarbrough 1971
+Tyto alba,533.2,6.46,D,V,T/TR,G,N,N,N,N,N,Edwards 1987
+Tyto tenebricosa,770,10.36,D,V,TR,F,N,N,N,N,N,"McNab, pers. obs."
+Upupa epops,67,1.99,N,I,T/TR,G,N,+/O,N,N,N,Prinzinger & Hänssler 1980
+Uraeginthus bengalis,9.2,0.59,N,S,TR,F/O,N,N,N,N,N,Kendeigh et al. 1977
+Uria aalge,771,16.25,N,V,T,M,N,Y,N,N,N,Bryant & Furness 1995
+Uria lomvia,819,18.25,N,V/I,P,M,N,Y,N,N,N,Bryant & Furness 1995
+Urocolius macrourus,51.3,0.86,N,F,TR,F,Y,N,N,N,N,Prinzinger 1988
+Vermivora pinus,7.8,0.54,N,I,T,F/O,N,Y,N,N,N,Yarbrough 1971
+Vireo flavoviridis,15.9,1.01,N,I,TR,B,N,Y,N,N,N,Wiersma et al. 2007
+Vireo olivaceus,16.2,0.86,N,I,T,B,N,Y,N,N,N,Wiersma et al. 2007
+Xenops minutus,9.9,0.82,N,I,TR,F,N,N,N,N,N,Wiersma et al. 2007
+Xiphorhynchus guttatus,45.2,1.61,N,I,TR,F,N,N,N,N,N,Vleck & Vleck 1979
+Zonotrichia albicollis,20.2,1,N,F/S,T,B,N,Y,N,N,N,Yarbrough 1971
+Zonotrichia leucophrys,26.1,1.21,N,F/S,T,B,N,Y,N,N,N,Yarbrough 1971
+Zonotrichia querula,33.3,1.77,N,I/S,T,B,N,Y,N,N,N,Yarbrough 1971
+Zosterops lateralis,11.8,0.58,N,O,T/TR,B,N,N,N,N,N,Maddocks & Geiser 1997
+Hippolais icterina,12.5,1.69,N,I,T,F,N,Y,N,N,N,Kendeigh et al. 1977
+Lullula arborea,25.5,2.06,N,I,T,B,N,+/O,N,N,N,Tieleman et al. 2002
